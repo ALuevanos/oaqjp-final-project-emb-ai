@@ -1,0 +1,4 @@
+(base) alexisluevanos@MacBook-Pro oaqjp-final-project-emb-ai % python test_package.py
+Package import successful!
+{'anger': 0.87, 'disgust': 0.0, 'fear': 0.0, 'joy': 0.0, 'sadness': 0.13, 'dominant_emotion': 'anger'}
+Dominant emotion: anger
